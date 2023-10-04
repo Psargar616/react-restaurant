@@ -15,3 +15,9 @@ Built a restaurant menu website with filterable items using React JS.
 - Navbar menu with filters
 - UseState hook
 
+
+## Acknowledgements
+
+Build this website after watching tutirial from [Thapa Technical](https://www.youtube.com/watch?v=EHTWMpD6S_0)
+
+
